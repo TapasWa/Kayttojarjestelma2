@@ -1,0 +1,4 @@
+﻿aaaabbb
+foo bar
+last line
+
