@@ -1,0 +1,15 @@
+# Ignore compiled binaries and temporary files
+*.exe
+*.o
+*.obj
+*.dll
+.vs/
+.vscode/
+*.log
+*.tmp
+roundtrip.txt
+sample.z
+cat_out.txt
+grep_out.txt
+cat_preview.txt
+grep_preview.txt
